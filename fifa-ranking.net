@@ -1,0 +1,587 @@
+*Vertices 352		
+1		1. FC Köln
+2		1899 Hoffenheim
+3		Ajax
+4		Anderlecht
+5		Arsenal
+6		Aston Villa
+7		Athletic Bilbao
+8		Atlético Madrid
+9		Atlético Nacional
+10		Barcelona
+11		Basel
+12		Bayer Leverkusen
+13		Bayern Munich
+14		Belenenses
+15		Benfica
+16		Beşiktaş
+17		Boca Juniors
+18		Bordeaux
+19		Borussia Dortmund
+20		Borussia Mönchengladbach
+21		Botafogo
+22		Catania
+23		Celtic
+24		Chelsea
+25		Corinthians
+26		Cruzeiro
+27		Deportes Tolima
+28		Deportivo Cali
+29		Deportivo de La Coruña
+30		Dynamo Kyiv
+31		Eintracht Frankfurt
+32		Espanyol
+33		Estudiantes
+34		FC Augsburg
+35		Feyenoord
+36		Flamengo
+37		Galatasaray
+38		Genoa
+39		Getafe
+40		Granada
+41		Grêmio
+42		Hamburger SV
+43		Hannover 96
+44		Hertha BSC
+45		Hoffenheim
+46		Hull City
+47		Independiente
+48		Inter Milan
+49		Internazionale
+50		Juventus
+51		Kuban Krasnodar
+52		Lazio
+53		Lille
+54		Liverpool
+55		Lyon
+56		Málaga
+57		Manchester City
+58		Manchester United
+59		Marítimo
+60		Marseille
+61		Milan
+62		Monaco
+63		Monterrey
+64		Montreal Impact
+65		Moreirense
+66		Nacional
+67		Napoli
+68		Newcastle United
+69		Newell's Old Boys
+70		Olympiacos
+71		Paris Saint-Germain
+72		Porto
+73		PSV
+74		Real Madrid
+75		Real Sociedad
+76		Rennes
+77		Rio Ave
+78		River Plate
+79		Roma
+80		Sampdoria
+81		Santos
+82		Santos Laguna
+83		São Paulo
+84		SC Braga
+85		SC Freiburg
+86		Schalke 04
+87		Sevilla
+88		Shakhtar Donetsk
+89		SL Benfica
+90		Southampton
+91		Spartak Moscow
+92		Sporting CP
+93		Standard Liège
+94		Sunderland
+95		Torino
+96		Tottenham Hotspur
+97		Toulouse
+98		UANL
+99		Udinese
+100		Universidad de Chile
+101		Valencia
+102		Valladolid
+103		Vasco da Gama
+104		VfL Wolfsburg
+105		Villarreal
+106		Vitória de Guimarães
+107		Wolfsburg
+108		Young Boys
+109		Zenit Saint Petersburg
+110		Manuel Neuer
+111		Ron-Robert Zieler
+112		Roman Weidenfeller
+113		Jérôme Boateng
+114		Mats Hummels
+115		Benedikt Höwedes
+116		Holger Badstuber
+117		Shkodran Mustafi
+118		Sebastian Rudy
+119		Jonas Hector
+120		Lukas Podolski
+121		Bastian Schweinsteiger
+122		Mesut Özil
+123		Thomas Müller
+124		Toni Kroos
+125		Sami Khedira
+126		André Schürrle
+127		Marco Reus
+128		İlkay Gündoğan
+129		Christoph Kramer
+130		Karim Bellarabi
+131		Mario Götze
+132		Max Kruse
+133		Sergio Romero
+134		Gerónimo Rulli
+135		Nahuel Guzmán
+136		Ezequiel Garay
+137		Nicolás Otamendi
+138		Pablo Zabaleta
+139		Facundo Roncaglia
+140		Lucas Orbán
+141		Marcos Rojo
+142		Mateo Musacchio
+143		Ramiro Funes Mori
+144		Federico Mancuello
+145		Lucas Biglia
+146		Ángel Di María
+147		Enzo Pérez INJ
+148		Javier Mascherano
+149		Javier Pastore
+150		Éver Banega
+151		Maxi Rodríguez
+152		Roberto Pereyra
+153		Gonzalo Higuaín
+154		Lionel Messi
+155		Sergio Agüero
+156		Ezequiel Lavezzi
+157		Carlos Tevez
+158		Thibaut Courtois
+159		Simon Mignolet
+160		Jean-François Gillet
+161		Vincent Kompany
+162		Jan Vertonghen
+163		Toby Alderweireld
+164		Nicolas Lombaerts
+165		Anthony Vanden Borre
+166		Olivier Deschacht
+167		Laurent Ciman
+168		Jason Denayer
+169		Mousa Dembélé
+170		Marouane Fellaini
+171		Axel Witsel
+172		Kevin De Bruyne
+173		Nacer Chadli
+174		Radja Nainggolan
+175		Yannick Ferreira Carrasco
+176		Eden Hazard
+177		Dries Mertens
+178		Christian Benteke
+179		Divock Origi
+180		Michy Batshuayi
+181		David Ospina
+182		Camilo Vargas
+183		Pedro Franco
+184		Darwin Andrade
+185		Pablo Armero
+186		Stefan Medina
+187		Jeison Murillo
+188		Daniel Bocanegra
+189		Johan Mojica
+190		Carlos Sánchez
+191		Abel Aguilar
+192		Juan Guillermo Cuadrado
+193		Fredy Guarín
+194		Juan Fernando Quintero
+195		Andrés Rentería
+196		Alexander Mejía
+197		Wílmar Barrios
+198		Edwin Cardona
+199		Radamel Falcao
+200		Rafael Santos Borré
+201		Carlos Bacca
+202		Teófilo Gutiérrez
+203		Adrián Ramos
+204		Jefferson
+205		Diego Alves
+206		Marcelo Grohe
+207		Thiago Silva
+208		Marcelo
+209		Miranda
+210		Danilo
+211		Filipe Luís
+212		Gil
+213		Fabinho
+214		Gabriel Paulista
+215		Oscar
+216		Luiz Gustavo
+217		Willian
+218		Elias
+219		Fernandinho
+220		Philippe Coutinho
+221		Douglas Costa
+222		Souza
+223		Robinho
+224		Neymar
+225		Luiz Adriano
+226		Roberto Firmino
+227		Kenneth Vermeer
+228		Tim Krul
+229		Jasper Cillessen
+230		Daryl Janmaat
+231		Stefan de Vrij
+232		Bruno Martins Indi
+233		Jetro Willems
+234		Gregory van der Wiel
+235		Joël Veltman
+236		Jeffrey Bruma
+237		Daley Blind
+238		Luciano Narsingh
+239		Davy Klaassen
+240		Wesley Sneijder
+241		Memphis Depay
+242		Nigel de Jong
+243		Quincy Promes
+244		Georginio Wijnaldum
+245		Jonathan de Guzmán
+246		Ibrahim Afellay
+247		Klaas-Jan Huntelaar
+248		Luuk de Jong
+249		Bas Dost
+250		Anthony Lopes
+251		Hugo Ventura
+252		Marafona
+253		Vitorino Antunes
+254		André Almeida
+255		Cédric Soares
+256		Paulo Oliveira
+257		André Pinto
+258		Tiago Pinto
+259		Vieirinha
+260		André Gomes
+261		Pizzi
+262		João Mário
+263		Adrien Silva
+264		André André
+265		Bernardo Silva
+266		Danilo Pereira
+267		Hugo Almeida
+268		Éder
+269		Ivan Cavaleiro
+270		Ukra
+271		Rui Fonte
+272		Lucas João
+273		Fernando Muslera
+274		Martín Silva
+275		Maxi Pereira
+276		Diego Godín
+277		Álvaro Pereira
+278		Sebastián Coates
+279		José Giménez
+280		Mathías Corujo
+281		Gastón Silva
+282		Emiliano Velázquez
+283		Egidio Arévalo Ríos
+284		Álvaro González
+285		Nicolás Lodeiro
+286		Gastón Ramírez
+287		Camilo Mayada
+288		Giorgian De Arrascaeta
+289		Guzmán Pereira
+290		Carlos Sánchez
+291		Edinson Cavani
+292		Abel Hernández
+293		Christian Stuani
+294		Diego Rolán
+295		Jonathan Rodríguez
+296		Yann Sommer
+297		Roman Bürki
+298		Marwin Hitz
+299		Stephan Lichtsteiner
+300		Johan Djourou
+301		Steve von Bergen
+302		Ricardo Rodríguez
+303		Fabian Schär
+304		François Moubandje
+305		Silvan Widmer
+306		Fabian Lustenberger
+307		Gökhan İnler
+308		Valon Behrami
+309		Gelson Fernandes
+310		Xherdan Shaqiri
+311		Blerim Džemaili
+312		Granit Xhaka
+313		Valentin Stocker
+314		Fabian Frei
+315		Pajtim Kasami
+316		Admir Mehmedi
+317		Haris Seferović
+318		Josip Drmić
+319		Breel Embolo
+320		Iker Casillas
+321		David de Gea
+322		Sergio Asenjo
+323		Raúl Albiol
+324		Gerard Piqué
+325		Marc Bartra
+326		Dani Carvajal
+327		Sergio Ramos
+328		Juanfran
+329		Juan Bernat
+330		Mikel San José
+331		Sergio Busquets
+332		Andrés Iniesta
+333		Koke
+334		Cesc Fàbregas
+335		Mario Suárez
+336		Vitolo
+337		Santi Cazorla
+338		David Silva
+339		Isco
+340		Álvaro Morata
+341		Juanmi
+342		Pedro
+343		Germany
+344		Argentina
+345		Belgium
+346		Columbia
+347		Brazil
+348		Netherlands
+349		Portugal
+350		Uruguay 
+351		Switzerland
+352		Spain
+*Edgelist		
+110	13	343
+111	43	343
+112	19	343
+113	10	343
+114	19	343
+115	86	343
+116	13	343
+117	101	343
+118	2	343
+119	1	343
+120	48	343
+121	13	343
+122	5	343
+123	10	343
+124	74	343
+125	74	343
+126	104	343
+127	19	343
+128	19	343
+129	20	343
+130	12	343
+131	13	343
+132	20	343
+133	80	344
+134	75	344
+135	98	344
+136	109	344
+137	101	344
+138	57	344
+139	38	344
+140	101	344
+141	58	344
+142	105	344
+143	78	344
+144	47	344
+145	52	344
+146	58	344
+147	101	344
+148	10	344
+149	71	344
+150	87	344
+151	69	344
+152	50	344
+153	67	344
+154	10	344
+155	57	344
+156	71	344
+157	50	344
+158	24	345
+159	54	345
+160	22	345
+161	57	345
+162	96	345
+163	90	345
+164	109	345
+165	4	345
+166	4	345
+167	64	345
+168	23	345
+169	96	345
+170	58	345
+171	109	345
+172	107	345
+173	96	345
+174	79	345
+175	62	345
+176	24	345
+177	67	345
+178	6	345
+179	53	345
+180	60	345
+181	5	346
+182	9	346
+183	16	346
+184	93	346
+185	36	346
+186	63	346
+187	40	346
+188	9	346
+189	102	346
+190	6	346
+191	97	346
+192	24	346
+193	49	346
+194	72	346
+195	82	346
+196	63	346
+197	27	346
+198	63	346
+199	58	346
+200	28	346
+201	87	346
+202	78	346
+203	8	346
+204	21	347
+205	101	347
+206	41	347
+207	71	347
+208	74	347
+209	8	347
+210	72	347
+211	24	347
+212	25	347
+213	62	347
+214	5	347
+215	24	347
+216	107	347
+217	24	347
+218	25	347
+219	57	347
+220	54	347
+221	88	347
+222	83	347
+223	81	347
+224	10	347
+225	88	347
+226	45	347
+227	35	348
+228	68	348
+229	3	348
+230	68	348
+231	52	348
+232	72	348
+233	73	348
+234	71	348
+235	3	348
+236	73	348
+237	58	348
+238	73	348
+239	3	348
+240	37	348
+241	73	348
+242	61	348
+243	91	348
+244	73	348
+245	67	348
+246	70	348
+247	86	348
+248	73	348
+249	107	348
+250	55	349
+251	14	349
+252	65	349
+253	30	349
+254	89	349
+255	92	349
+256	92	349
+257	84	349
+258	77	349
+259	107	349
+260	101	349
+261	89	349
+262	92	349
+263	92	349
+264	106	349
+265	62	349
+266	59	349
+267	51	349
+268	84	349
+269	29	349
+270	77	349
+271	14	349
+272	66	349
+273	37	350
+274	103	350
+275	15	350
+276	8	350
+277	33	350
+278	94	350
+279	8	350
+280	100	350
+281	95	350
+282	39	350
+283	98	350
+284	95	350
+285	17	350
+286	46	350
+287	78	350
+288	26	350
+289	100	350
+290	78	350
+291	71	350
+292	46	350
+293	32	350
+294	18	350
+295	15	350
+296	20	351
+297	85	351
+298	34	351
+299	50	351
+300	42	351
+301	108	351
+302	104	351
+303	11	351
+304	97	351
+305	99	351
+306	44	351
+307	67	351
+308	42	351
+309	76	351
+310	49	351
+311	37	351
+312	20	351
+313	44	351
+314	11	351
+315	70	351
+316	85	351
+317	31	351
+318	12	351
+319	11	351
+320	74	352
+321	58	352
+322	105	352
+323	67	352
+324	10	352
+325	10	352
+326	74	352
+327	74	352
+328	8	352
+329	13	352
+330	7	352
+331	10	352
+332	10	352
+333	8	352
+334	24	352
+335	8	352
+336	87	352
+337	5	352
+338	57	352
+339	74	352
+340	50	352
+341	56	352
+342	10	352
