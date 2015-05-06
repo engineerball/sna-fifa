@@ -1,0 +1,15 @@
+*Vertices 7
+1 "Manuel Neuer"
+2 "Jerome Boateng"
+3 "Holger Badstuber"
+4 "Bastian Schweinsteiger"
+5 "Thomas Muller"
+6 "Mario GOtze"
+7 "Juan Bernat"
+*Edgeslist
+1 2 3 4 5 6 7
+2 3 4 5 6 7
+3 4 5 6 7
+4 5 6 7
+5 6 7
+6 7
